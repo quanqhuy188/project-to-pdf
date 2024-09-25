@@ -1,3 +1,5 @@
+# Bỏ qua thư mục node_modules
+node_modules/
 
-/node_modules
-/pdf
+# Bỏ qua thư mục pdf 
+pdf/
